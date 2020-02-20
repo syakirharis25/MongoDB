@@ -14,7 +14,7 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
-MongoDB official website : https://www.mongodb.com/ <br />
+MongoDB official website : https://www.mongodb.com <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
