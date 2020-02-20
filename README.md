@@ -9,7 +9,7 @@ My works related to MongoDB cross-platform, general purpose, document-based, dis
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="express.png" height="150"> 
+<img src="mongodb.jpg" height="150"> 
 MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schema. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL).
 
 <a name="references"></a>
