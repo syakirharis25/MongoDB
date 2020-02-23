@@ -17,11 +17,11 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 MongoDB official website : https://www.mongodb.com <br />
 MongoDB official documentation : https://docs.mongodb.com <br />
 
-**_MongoDB documentation by MongoDB.com_**
+**_MongoDB documentation by MongoDB.com_** <br />
 MongoDB Drivers and ODM by MongoDB.com : https://docs.mongodb.com/ecosystem/drivers/ <br />
 Documents by MongoDB.com : https://docs.mongodb.com/manual/core/document <br />
 
-**_MongoDB related articles_**
+**_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
 Blending the ORM and MongoDB ODM by doctrine-project.org : https://www.doctrine-project.org/projects/doctrine-mongodb-odm/en/2.0/cookbook/blending-orm-and-mongodb-odm.html <br />
  
