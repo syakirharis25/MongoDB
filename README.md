@@ -43,6 +43,7 @@ If you installed MongoDB as a service from the server page of https://www.mongod
 ```
 
 Make sure the number is as same as what you installed in your local machine.
+Make sure the program is always running when you want to use MongoDB database.
 
 <a name="github"></a>
 ## 4. GitHub notes.
