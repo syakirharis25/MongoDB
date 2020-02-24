@@ -18,6 +18,7 @@ MongoDB official website : https://www.mongodb.com <br />
 MongoDB official documentation : https://docs.mongodb.com <br />
 
 **_MongoDB related technologies_** <br />
+MongoDB Stitch : https://www.mongodb.com/cloud/stitch <br />
 Mocha : https://mochajs.org, https://github.com/mochajs/mocha <br />
 Robo 3T : https://robomongo.org, https://github.com/Studio3T/robomongo <br />
 
