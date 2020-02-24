@@ -45,6 +45,8 @@ If you installed MongoDB as a service from the server page of https://www.mongod
 Make sure the number is as same as what you installed in your local machine.
 Make sure the program is always running when you want to use MongoDB database.
 
+Read the official MongoDB documentation for better explanation : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
 <a name="github"></a>
 ## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
