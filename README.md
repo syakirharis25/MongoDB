@@ -21,6 +21,7 @@ MongoDB official documentation : https://docs.mongodb.com <br />
 MongoDB Stitch : https://www.mongodb.com/cloud/stitch <br />
 Mocha : https://mochajs.org, https://github.com/mochajs/mocha <br />
 Robo 3T : https://robomongo.org, https://github.com/Studio3T/robomongo <br />
+Homebrew package manager : https://brew.sh <br />
 
 **_MongoDB documentation by MongoDB.com_** <br />
 MongoDB Drivers and ODM by MongoDB.com : https://docs.mongodb.com/ecosystem/drivers/ <br />
