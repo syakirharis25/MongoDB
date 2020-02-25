@@ -53,6 +53,7 @@ cursor.pretty() by MongoDB : https://docs.mongodb.com/manual/reference/method/cu
 cursor.forEach() by MongoDB : https://docs.mongodb.com/manual/reference/method/cursor.forEach/ <br />
 Cursor Methods by MongoDB : https://docs.mongodb.com/manual/reference/method/js-cursor/ <br />
 Write Scripts for the mongo Shell by MongoDB : https://docs.mongodb.com/manual/tutorial/write-scripts-for-the-mongo-shell/ <br />
+cursor.toArray() by MongoDB : https://docs.mongodb.com/manual/reference/method/cursor.toArray/ <br />
 
 **_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
