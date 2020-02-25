@@ -40,6 +40,7 @@ WiredTiger Storage Engine by MongoDB : https://docs.mongodb.com/manual/core/wire
 mongod by MongoDB : https://docs.mongodb.com/manual/reference/program/mongod/ <br />
 mongo Shell Quick Reference by MongoDB : https://docs.mongodb.com/manual/reference/mongo-shell/ <br />
 MongoDB CRUD Operations by MongoDB : https://docs.mongodb.com/manual/crud/ <br />
+BSON Types by MongoDB : https://docs.mongodb.com/manual/reference/bson-types/ <br />
 
 **_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
