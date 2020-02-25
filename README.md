@@ -22,6 +22,10 @@ MongoDB Community Server : https://www.mongodb.com/download-center/community <br
 **_MongoDB questions and answers_**
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
 
+**_MongoDB questions and answers by Stack Overflow_**
+mongodb service is not starting up by Stack Overflow : https://stackoverflow.com/questions/9884233/mongodb-service-is-not-starting-up <br />
+mongod command not recognized when trying to connect to a mongodb server by Stack Overflow : https://stackoverflow.com/questions/15053893/mongod-command-not-recognized-when-trying-to-connect-to-a-mongodb-server/41507803 <br />
+
 **_MongoDB related technologies_** <br />
 MongoDB Stitch : https://www.mongodb.com/cloud/stitch <br />
 Mocha : https://mochajs.org, https://github.com/mochajs/mocha <br />
@@ -36,7 +40,6 @@ WiredTiger Storage Engine by MongoDB.com : https://docs.mongodb.com/manual/core/
 **_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
 Blending the ORM and MongoDB ODM by doctrine-project.org : https://www.doctrine-project.org/projects/doctrine-mongodb-odm/en/2.0/cookbook/blending-orm-and-mongodb-odm.html <br />
-mongodb service is not starting up : https://stackoverflow.com/questions/9884233/mongodb-service-is-not-starting-up <br />
 
 <a name="windowservice"></a>
 ## 3. Running MongoDB as a Windows Service.
