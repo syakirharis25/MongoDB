@@ -32,6 +32,7 @@ MongoDB Stitch : https://www.mongodb.com/cloud/stitch <br />
 Mocha : https://mochajs.org, https://github.com/mochajs/mocha <br />
 Robo 3T : https://robomongo.org, https://github.com/Studio3T/robomongo <br />
 Homebrew package manager : https://brew.sh <br />
+JSON formatter : https://jsonformatter.curiousconcept.com/ <br />
 
 **_MongoDB documentation by MongoDB_** <br />
 MongoDB Drivers and ODM by MongoDB : https://docs.mongodb.com/ecosystem/drivers/ <br />
