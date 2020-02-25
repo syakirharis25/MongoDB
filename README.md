@@ -5,8 +5,9 @@ My works related to MongoDB cross-platform, general purpose, document-based, dis
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Running MongoDB as a Windows Service.](#windowservice)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+4. [Mongo Daemon, mongod.](#mongod)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -32,10 +33,11 @@ Mocha : https://mochajs.org, https://github.com/mochajs/mocha <br />
 Robo 3T : https://robomongo.org, https://github.com/Studio3T/robomongo <br />
 Homebrew package manager : https://brew.sh <br />
 
-**_MongoDB documentation by MongoDB.com_** <br />
-MongoDB Drivers and ODM by MongoDB.com : https://docs.mongodb.com/ecosystem/drivers/ <br />
-Documents by MongoDB.com : https://docs.mongodb.com/manual/core/document <br />
-WiredTiger Storage Engine by MongoDB.com : https://docs.mongodb.com/manual/core/wiredtiger/ <br />
+**_MongoDB documentation by MongoDB_** <br />
+MongoDB Drivers and ODM by MongoDB : https://docs.mongodb.com/ecosystem/drivers/ <br />
+Documents by MongoDB : https://docs.mongodb.com/manual/core/document <br />
+WiredTiger Storage Engine by MongoDB : https://docs.mongodb.com/manual/core/wiredtiger/ <br />
+mongod by MongoDB : https://docs.mongodb.com/manual/reference/program/mongod/ <br />
 
 **_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
@@ -54,8 +56,19 @@ Make sure the program is always running when you want to use MongoDB database.
 
 Read the official MongoDB documentation for better explanation : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 
+<a name="mongod"></a>
+## 4. Mongo Daemon, mongod.
+mongod is the primary daemon process for the MongoDB system. It handles data requests, manages data access, and performs background management operations.
+
+To use mongod, first you need to setup the windows environment, try to find where is your MongoDB binaries installed in your local machine, for example `C:\Program Files\MongoDB\Server\4.2\bin`, copy the address location from the address bar by pressing **[ Ctrl ] + **[ C ]**, then on the task bar, on the left of windows ⊞ logo, type `environment`, under `Best Match` text, find the text `Edit the system environment variables`, then hover the mouse on that text and **[ Mouse Left Click ]** on it, the `System properties` menu will appear on the screen, press **[ N ]** on your keyboard and `Environment Variables` menu will appear on the screen. Press **[ P ]** and make sure the `Path` is highlighted on the screen, then press **[ Tab ]**, **[ E ]** on your keyboard, then press **[ Tab ]**, **[ N ]**, then press **[ Ctrl ]** + **[ V ]** on your keyboard to paste the address of MongoDB binaries into windows environment variable, and then press **[ Enter ]**, **[ Enter ]**, **[ Enter ]**, **[ Tab ]**, **[ Enter ]**.
+
+After setting the windows environment variable, then test the mongod command.
+```
+$ mongod
+```
+
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/MongoDB.git
@@ -65,7 +78,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
