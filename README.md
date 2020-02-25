@@ -38,6 +38,7 @@ MongoDB Drivers and ODM by MongoDB : https://docs.mongodb.com/ecosystem/drivers/
 Documents by MongoDB : https://docs.mongodb.com/manual/core/document <br />
 WiredTiger Storage Engine by MongoDB : https://docs.mongodb.com/manual/core/wiredtiger/ <br />
 mongod by MongoDB : https://docs.mongodb.com/manual/reference/program/mongod/ <br />
+mongo Shell Quick Reference by MongoDB : https://docs.mongodb.com/manual/reference/mongo-shell/ <br />
 
 **_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
