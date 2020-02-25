@@ -46,6 +46,7 @@ Model Data for Atomic Operations by MongoDB : https://docs.mongodb.com/manual/tu
 $set by MongoDB : https://docs.mongodb.com/manual/reference/operator/update/set/ <br />
 $gt by MongoDB : https://docs.mongodb.com/manual/reference/operator/query/gt/ <br />
 db.collection.update() by MongoDB : https://docs.mongodb.com/manual/reference/method/db.collection.update/ <br />
+db.collection.deleteMany() by MongoDB : https://docs.mongodb.com/manual/reference/method/db.collection.deleteMany/ <br />
 
 **_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
