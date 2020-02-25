@@ -43,6 +43,7 @@ MongoDB CRUD Operations by MongoDB : https://docs.mongodb.com/manual/crud/ <br /
 BSON Types by MongoDB : https://docs.mongodb.com/manual/reference/bson-types/ <br />
 JSON and BSON by MongoDB : https://www.mongodb.com/json-and-bson <br />
 Model Data for Atomic Operations by MongoDB : https://docs.mongodb.com/manual/tutorial/model-data-for-atomic-operations/ <br />
+$set by MongoDB : https://docs.mongodb.com/manual/reference/operator/update/set/ <br />
 
 **_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
