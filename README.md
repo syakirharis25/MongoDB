@@ -21,14 +21,14 @@ MongoDB official website : https://www.mongodb.com <br />
 MongoDB official documentation : https://docs.mongodb.com <br />
 MongoDB Community Server : https://www.mongodb.com/download-center/community <br />
 
-**_MongoDB in financial sector_**
+**_MongoDB in financial sector_** <br />
 Citibank : https://online.citi.com <br />
 Hongkong and Shanghai Banking Corporation (HSBC) : https://www.hsbc.com <br />
 
-**_MongoDB questions and answers_**
+**_MongoDB questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
 
-**_MongoDB questions and answers by Stack Overflow_**
+**_MongoDB questions and answers by Stack Overflow_** <br />
 mongodb service is not starting up by Stack Overflow : https://stackoverflow.com/questions/9884233/mongodb-service-is-not-starting-up <br />
 mongod command not recognized when trying to connect to a mongodb server by Stack Overflow : https://stackoverflow.com/questions/15053893/mongod-command-not-recognized-when-trying-to-connect-to-a-mongodb-server/41507803 <br />
 Command to show the db that I'm currently using in MongoDB? by Stack Overflow : https://stackoverflow.com/questions/16004182/command-to-show-the-db-that-im-currently-using-in-mongodb <br />
