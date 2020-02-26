@@ -6,8 +6,13 @@ My works related to MongoDB cross-platform, general purpose, document-based, dis
 2. [Official references websites.](#references)
 3. [Running MongoDB as a Windows Service.](#windowservice)
 4. [Mongo Daemon, mongod.](#mongod)
-5. [GitHub notes.](#github)
-6. [GitHub repository calculation.](#calculation)
+5. [Book references.](#books)
+6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
+
+<a name="books"></a>
+## 5. Book references.
+draft
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -26,12 +31,15 @@ Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
 **_MongoDB questions and answers by Stack Overflow_**
 mongodb service is not starting up by Stack Overflow : https://stackoverflow.com/questions/9884233/mongodb-service-is-not-starting-up <br />
 mongod command not recognized when trying to connect to a mongodb server by Stack Overflow : https://stackoverflow.com/questions/15053893/mongod-command-not-recognized-when-trying-to-connect-to-a-mongodb-server/41507803 <br />
+Command to show the db that I'm currently using in MongoDB? by Stack Overflow : https://stackoverflow.com/questions/16004182/command-to-show-the-db-that-im-currently-using-in-mongodb <br />
 
 **_MongoDB related technologies_** <br />
 MongoDB Stitch : https://www.mongodb.com/cloud/stitch <br />
 Mocha : https://mochajs.org, https://github.com/mochajs/mocha <br />
 Robo 3T : https://robomongo.org, https://github.com/Studio3T/robomongo <br />
 Homebrew package manager : https://brew.sh <br />
+JSON formatter : https://jsonformatter.curiousconcept.com/ <br />
+JSON formatter by jsonformatter.org : https://jsonformatter.org/ <br />
 
 **_MongoDB documentation by MongoDB_** <br />
 MongoDB Drivers and ODM by MongoDB : https://docs.mongodb.com/ecosystem/drivers/ <br />
@@ -42,6 +50,21 @@ mongo Shell Quick Reference by MongoDB : https://docs.mongodb.com/manual/referen
 MongoDB CRUD Operations by MongoDB : https://docs.mongodb.com/manual/crud/ <br />
 BSON Types by MongoDB : https://docs.mongodb.com/manual/reference/bson-types/ <br />
 JSON and BSON by MongoDB : https://www.mongodb.com/json-and-bson <br />
+Model Data for Atomic Operations by MongoDB : https://docs.mongodb.com/manual/tutorial/model-data-for-atomic-operations/ <br />
+$set by MongoDB : https://docs.mongodb.com/manual/reference/operator/update/set/ <br />
+$gt by MongoDB : https://docs.mongodb.com/manual/reference/operator/query/gt/ <br />
+db.collection.update() by MongoDB : https://docs.mongodb.com/manual/reference/method/db.collection.update/ <br />
+db.collection.deleteMany() by MongoDB : https://docs.mongodb.com/manual/reference/method/db.collection.deleteMany/ <br />
+db.collection.insertMany() by MongoDB : https://docs.mongodb.com/manual/reference/method/db.collection.insertMany/ <br />
+db.collection.find() by MongoDB : https://docs.mongodb.com/manual/reference/method/db.collection.find/ <br />
+cursor.pretty() by MongoDB : https://docs.mongodb.com/manual/reference/method/cursor.pretty/ <br />
+cursor.forEach() by MongoDB : https://docs.mongodb.com/manual/reference/method/cursor.forEach/ <br />
+Cursor Methods by MongoDB : https://docs.mongodb.com/manual/reference/method/js-cursor/ <br />
+Write Scripts for the mongo Shell by MongoDB : https://docs.mongodb.com/manual/tutorial/write-scripts-for-the-mongo-shell/ <br />
+cursor.toArray() by MongoDB : https://docs.mongodb.com/manual/reference/method/cursor.toArray/ <br />
+db.collection.updateOne() by MongoDB : https://docs.mongodb.com/manual/reference/method/db.collection.updateOne/ <br />
+db.collection.findOne() by MongoDB : https://docs.mongodb.com/manual/reference/method/db.collection.findOne/ <br />
+Data Models by MongoDB : https://docs.mongodb.com/manual/data-modeling/ <br />
 
 **_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
@@ -72,7 +95,7 @@ $ mongod
 ```
 
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/MongoDB.git
@@ -82,7 +105,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 7. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
