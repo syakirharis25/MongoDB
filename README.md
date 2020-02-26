@@ -6,8 +6,13 @@ My works related to MongoDB cross-platform, general purpose, document-based, dis
 2. [Official references websites.](#references)
 3. [Running MongoDB as a Windows Service.](#windowservice)
 4. [Mongo Daemon, mongod.](#mongod)
-5. [GitHub notes.](#github)
-6. [GitHub repository calculation.](#calculation)
+5. [Book references.](#books)
+6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
+
+<a name="books"></a>
+## 5. Book references.
+draft
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -90,7 +95,7 @@ $ mongod
 ```
 
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/MongoDB.git
@@ -100,7 +105,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 7. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
