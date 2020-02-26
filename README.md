@@ -10,10 +10,6 @@ My works related to MongoDB cross-platform, general purpose, document-based, dis
 6. [GitHub notes.](#github)
 7. [GitHub repository calculation.](#calculation)
 
-<a name="books"></a>
-## 5. Book references.
-draft
-
 <a name="introduction"></a>
 ## 1. Introduction.
 <img src="mongodb.jpg" height="200"> 
@@ -25,10 +21,14 @@ MongoDB official website : https://www.mongodb.com <br />
 MongoDB official documentation : https://docs.mongodb.com <br />
 MongoDB Community Server : https://www.mongodb.com/download-center/community <br />
 
-**_MongoDB questions and answers_**
+**_MongoDB in financial sector_** <br />
+Citibank : https://online.citi.com <br />
+Hongkong and Shanghai Banking Corporation (HSBC) : https://www.hsbc.com <br />
+
+**_MongoDB questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
 
-**_MongoDB questions and answers by Stack Overflow_**
+**_MongoDB questions and answers by Stack Overflow_** <br />
 mongodb service is not starting up by Stack Overflow : https://stackoverflow.com/questions/9884233/mongodb-service-is-not-starting-up <br />
 mongod command not recognized when trying to connect to a mongodb server by Stack Overflow : https://stackoverflow.com/questions/15053893/mongod-command-not-recognized-when-trying-to-connect-to-a-mongodb-server/41507803 <br />
 Command to show the db that I'm currently using in MongoDB? by Stack Overflow : https://stackoverflow.com/questions/16004182/command-to-show-the-db-that-im-currently-using-in-mongodb <br />
@@ -40,6 +40,8 @@ Robo 3T : https://robomongo.org, https://github.com/Studio3T/robomongo <br />
 Homebrew package manager : https://brew.sh <br />
 JSON formatter : https://jsonformatter.curiousconcept.com/ <br />
 JSON formatter by jsonformatter.org : https://jsonformatter.org/ <br />
+Mongoose : https://mongoosejs.com, https://github.com/Automattic/mongoose <br />
+Nodemon : https://nodemon.io <br />
 
 **_MongoDB documentation by MongoDB_** <br />
 MongoDB Drivers and ODM by MongoDB : https://docs.mongodb.com/ecosystem/drivers/ <br />
@@ -69,6 +71,9 @@ Data Models by MongoDB : https://docs.mongodb.com/manual/data-modeling/ <br />
 **_MongoDB related articles_** <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
 Blending the ORM and MongoDB ODM by doctrine-project.org : https://www.doctrine-project.org/projects/doctrine-mongodb-odm/en/2.0/cookbook/blending-orm-and-mongodb-odm.html <br />
+Webinar: How Retail Banks Use MongoDB by MongoDB : https://www.mongodb.com/presentations/webinar-how-retail-banks-use-mongodb <br />
+Transforming Financial Services by MongoDB : https://www.mongodb.com/industries/financial-services <br />
+How DevOps, Microservices, and MongoDB are Making HSBC “Simpler, Better, and Faster” by MongoDB : https://www.mongodb.com/blog/post/how-devops-microservices-and-mongodb-are-making-hsbc-simpler-better-and-faster <br />
 
 <a name="windowservice"></a>
 ## 3. Running MongoDB as a Windows Service.
@@ -93,6 +98,14 @@ After setting the windows environment variable, then test the mongod command.
 ```
 $ mongod
 ```
+
+<a name="books"></a>
+## 5. Book references.
+**_Mongodb: the Definitive Guide_** by Shannon Bradshaw and Kristina Chodorow (Third Edition) <br />
+<img src="mongodbook.jpg" height="450"> 
+<br /><br />
+**_Database Design for Mere Mortals : A Hands-On Guide to Relational Database Design_** by Michael J. Hernandez (Third Edition) <br />
+<img src="database-design.jpg" height="400"> 
 
 <a name="github"></a>
 ## 6. GitHub notes.
