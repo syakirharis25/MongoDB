@@ -6,7 +6,7 @@ const StudentSchema = new Schema({
     name: String
 });
 
-const Student = mongoose.model('student', StudentSchema);
+const Student = mongoose.model("student", StudentSchema);
 
 // export
-module.export = Student;
+module.exports = Student;
