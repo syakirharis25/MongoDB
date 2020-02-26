@@ -10,10 +10,6 @@ My works related to MongoDB cross-platform, general purpose, document-based, dis
 6. [GitHub notes.](#github)
 7. [GitHub repository calculation.](#calculation)
 
-<a name="books"></a>
-## 5. Book references.
-draft
-
 <a name="introduction"></a>
 ## 1. Introduction.
 <img src="mongodb.jpg" height="200"> 
@@ -93,6 +89,14 @@ After setting the windows environment variable, then test the mongod command.
 ```
 $ mongod
 ```
+
+<a name="books"></a>
+## 5. Book references.
+Database Design for Mere Mortals : A Hands-On Guide to Relational Database Design by Michael J. Hernandez (Third Edition)
+<img src="database-design.jpg" height="500"> 
+
+Mongodb: the Definitive Guide by Kristina Chodorow (Third Edition)
+<img src="mongodbook.jpg" height="500"> 
 
 <a name="github"></a>
 ## 6. GitHub notes.
