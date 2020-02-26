@@ -92,7 +92,7 @@ $ mongod
 
 <a name="books"></a>
 ## 5. Book references.
-**_Mongodb: the Definitive Guide_** by Kristina Chodorow (Third Edition) <br />
+**_Mongodb: the Definitive Guide_** by Shannon Bradshaw and Kristina Chodorow (Third Edition) <br />
 <img src="mongodbook.jpg" height="450"> 
 <br /><br />
 **_Database Design for Mere Mortals : A Hands-On Guide to Relational Database Design_** by Michael J. Hernandez (Third Edition) <br />
