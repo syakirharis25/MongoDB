@@ -21,6 +21,10 @@ MongoDB official website : https://www.mongodb.com <br />
 MongoDB official documentation : https://docs.mongodb.com <br />
 MongoDB Community Server : https://www.mongodb.com/download-center/community <br />
 
+**_MongoDB in financial sector_**
+Citibank : https://online.citi.com <br />
+Hongkong and Shanghai Banking Corporation (HSBC) : https://www.hsbc.com <br />
+
 **_MongoDB questions and answers_**
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
 
@@ -66,6 +70,8 @@ Data Models by MongoDB : https://docs.mongodb.com/manual/data-modeling/ <br />
 How to set up MongoChef to ease your MongoDB admin challenges by techrepublic.com : https://www.techrepublic.com/article/how-to-set-up-mongochef-to-ease-your-mongodb-admin-challenges/ <br />
 Blending the ORM and MongoDB ODM by doctrine-project.org : https://www.doctrine-project.org/projects/doctrine-mongodb-odm/en/2.0/cookbook/blending-orm-and-mongodb-odm.html <br />
 Webinar: How Retail Banks Use MongoDB by MongoDB : https://www.mongodb.com/presentations/webinar-how-retail-banks-use-mongodb <br />
+Transforming Financial Services by MongoDB : https://www.mongodb.com/industries/financial-services <br />
+How DevOps, Microservices, and MongoDB are Making HSBC “Simpler, Better, and Faster” by MongoDB : https://www.mongodb.com/blog/post/how-devops-microservices-and-mongodb-are-making-hsbc-simpler-better-and-faster <br />
 
 <a name="windowservice"></a>
 ## 3. Running MongoDB as a Windows Service.
