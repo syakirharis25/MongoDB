@@ -16,3 +16,9 @@ before(done => {
             console.log("Your Error", error);
         });
 });
+
+beforeEach((done) => {
+    mongoose.connection.collections.students.drop(() => {
+        done();
+    });
+})
