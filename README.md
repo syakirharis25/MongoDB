@@ -94,7 +94,7 @@ $ mongod
 ## 5. Book references.
 Database Design for Mere Mortals : A Hands-On Guide to Relational Database Design by Michael J. Hernandez (Third Edition)
 <img src="database-design.jpg" height="500"> 
-
+<br /><br />
 Mongodb: the Definitive Guide by Kristina Chodorow (Third Edition)
 <img src="mongodbook.jpg" height="500"> 
 
